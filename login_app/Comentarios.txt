@@ -1,0 +1,14 @@
+This is a list of 5 things I learned developing this code.
+
+1. Creating a login app in Flutter: Through this code, you have learned how to create a simple login app using the Flutter framework. You've seen how to design the user interface, manage navigation between screens, and work with forms.
+
+2.Managing state in Flutter: You have learned how to manage the state of the application using setState().
+The state of the application changes when the user logs in or registers, and this affects the user interface that is displayed.
+
+3. Form Validation: You have seen how to add form validation in Flutter using Form and TextFormField.
+This ensures that users provide valid information before logging in or registering.
+
+4. Using Text Controllers: You have used TextEditingController to manage text entry in the username and password fields. This allows access and manipulation of the values entered by the user in those fields.
+
+5. Navigation between screens: You have learned how to navigate between different screens of the application using the Navigator widget.
+When the user logs in successfully, a welcome screen is displayed, and when the user logs out, they return to the login form.
